@@ -5,7 +5,7 @@ def MaximumNumbers(numbers):
   numbers[3]
   numbers[4]
   numbers[5]
-  return max(...numbers) 
+  return max(numbers) 
 
 print(MaximumNumbers([34,26,328,93,46,73]))
 
