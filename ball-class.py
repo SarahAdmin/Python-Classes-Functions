@@ -3,7 +3,7 @@ class Ball:
       self.type = type
       self.colour = colour 
       self.diameter = diameter 
-def MyBall(self): 
+  def MyBall(self): 
    print('Type:  '+ self.type) 
    print('Colour: '+ self.colour) 
    print('Diameter: '+ self.diameter) 
