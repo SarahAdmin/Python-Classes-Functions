@@ -13,5 +13,7 @@ class MyCar:
       print('Year: '+ self.yearReleased) 
 
 Myparam = MyCar('Ford','Fiesta','White','Five','2024') 
+Para1 = MyCar('Toyota','Yaris','Grey','Five','2020')
 
 Myparam.CarFunction()
+Para1.CarFunction()
