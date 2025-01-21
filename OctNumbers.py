@@ -1,3 +1,3 @@
 def ConvertDecimaltoOct(num): 
   return oct(num) 
-CovertDecimaltoOct(int(input('Enter the number: ')))
+ConvertDecimaltoOct(int(input('Enter the number: ')))
